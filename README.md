@@ -20,7 +20,7 @@
 <img align="left" alt="Kali Linux" width="26px" src="https://www.pinclipart.com/picdir/big/107-1077742_kali-linux-kali-linux-logo-png-clipart.png" />
 <img align="left" alt="ubuntu" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/ubuntu/ubuntu.png" />
 <img align="left" alt="archlinux" width="26px" src="https://raw.githubusercontent.com/github/explore/7b8474be525e3f210d3c8d60a32beca4bfc2895b/topics/archlinux/archlinux.png" />
-<img align="left" alt="ubuntu" width="26px" src="https://raw.githubusercontent.com/github/explore/379d49236d826364be968345e0a085d044108cff/topics/windows/windows.png" />
+<img align="left" alt="windows" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Unofficial_Windows_logo_variant_-_2002%E2%80%932012_%28Multicolored%29.svg/2321px-Unofficial_Windows_logo_variant_-_2002%E2%80%932012_%28Multicolored%29.svg.png" />
 
 <br />
 
